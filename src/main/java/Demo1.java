@@ -4,6 +4,7 @@ public class Demo1 {
         System.out.println("1111111111");
 
         System.out.println("git checkout -b fix-B");
+        System.out.println("提交github测试");
 
     }
 }
